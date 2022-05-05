@@ -74,7 +74,7 @@ function makeWithdrawal() {
 				makeWithdrawal();
 			}
 		} else {
-			alert("You must withdraw at least $1000");
+			alert("You must withdraw at least $1");
 			makeWithdrawal();
 		}
 	} else {
